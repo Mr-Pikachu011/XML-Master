@@ -1,0 +1,123 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : foreground="@color/colorAccent"
+    toolos:context=".Mainactivity">
+
+
+<TextView
+    android : id="@+id/tectview"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : text="Hello World"
+    android : textSize="26sp"
+    android : textStyle="bold"
+    android : textColor="#fff"
+    android : background="#fff"
+    android : layout_marginTopBottom=0
+    android : layout_marginLeftRight=0
+/>
+
+
+<EditText
+    android : id="@+id/tectview"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : text="Hello World"
+    android : hint="Enter passworld"
+    android : textSize="26sp"
+    android : textStyle="bold"
+    android : textColorHint="#fff"
+    android : background="#fff"
+    android : inputType="text"
+/>
+
+
+<Button
+    android : id="@+id/tectview"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : text="Hello World"
+    android : textSize="26sp"
+    android : textStyle="bold"
+    android : textColor="#fff"
+    android : background="#fff"
+    android : layout_marginTopBottom=0
+    android : layout_marginLeftRight=0
+/>
+
+
+<imageview
+    android : id="@+id/tectview"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : text="Hello World"
+    android : background="#fff"
+    android : src="filepath"
+    android : layout_marginTopBottom=0
+    android : layout_marginLeftRight=0
+/>
+
+
+<ToggleButton
+    android : id="@+id/tectview"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : text="Hello World"
+    android : background="#fff"
+    android : textColor="#fff"
+    android : checked="true"
+    android : values=1
+    android : textSize="26sp"
+    android : textStyle="bold"
+    android : textOff="Disable"
+    android : textOn="Enable"
+    android : layout_marginTopBottom=0
+    android : layout_marginLeftRight=0
+/>
+
+
+<RadioButton
+    android : id="@+id/tectview"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : text="Hello World"
+    android : background="#fff"
+    android : textColor="#fff"
+    android : checked="true"
+    android : textSize="26sp"
+    android : textStyle="bold"
+    android : layout_marginTopBottom=0
+    android : layout_marginLeftRight=0
+/>
+
+
+<CheckBox
+    android : id="@+id/tectview"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : text="Hello World"
+    android : background="#fff"
+    android : textColor="#fff"
+    android : checked="true"
+    android : textSize="26sp"
+    android : textStyle="bold"
+    android : layout_marginTopBottom=0
+    android : layout_marginLeftRight=0
+/>
+
+
+<ProgressBar
+    android : id="@+id/tectview"
+    android : layout_width="Wrap_content"
+    android : layout_height="Wrap_content"
+    android : layout_marginTopBottom=0
+    android : layout_marginLeftRight=0
+/>
+
+
+

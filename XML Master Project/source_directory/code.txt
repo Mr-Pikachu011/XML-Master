@@ -1,0 +1,31 @@
+from source import Android
+from tkinter import *
+from tkinter import PhotoImage
+
+root = Tk()
+root.geometry("320x500")
+root.title("App")
+
+
+# <?xml version="1.0" encoding="utf-8"?>
+# <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+#     xmlns:tools="http://schemas.android.com/tools"
+#     android : layout_width="Wrap_content"
+#     android : layout_height="Wrap_content"
+#     android : foreground="@color/colorAccent"
+#     toolos:context=".Mainactivity">
+
+# Write code here
+
+Android.textview(
+    layout=root,
+    android_layout_width=155,
+    android_layout_height=240,
+    android_text="hello"
+)
+
+
+
+
+# </LinearLayput>
+root.mainloop()
